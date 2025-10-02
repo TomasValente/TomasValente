@@ -16,7 +16,7 @@
   </div>
 
   <div style="flex: 0.3; display: flex; align-items: stretch; justify-content: center;">
-    <img src="assets/videos/caffeine.gif" alt="caffeine" style="height: 100%; object-fit: contain;">
+    <img src="assets/videos/caffeine.gif" alt="caffeine" style="height: 100px; object-fit: contain;">
   </div>
 
 </div>
